@@ -66,6 +66,10 @@ Digital cash with tech innovations (masternodes) that allow instant and optional
 ### Decred
 Bitcoin like.
 
+### DigiByte 
+
+Older Bitcoin competitor with 5 mining alternatives, 15 sec blockintervall with halving every year.
+
 ### DigixDAO
 Gold backed tokens
 
