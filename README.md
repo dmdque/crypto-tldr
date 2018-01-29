@@ -1,4 +1,6 @@
 # crypto-tldr
+![Banner](img/banner.png)
+
 ## Motivation
 In the beginning there was just one. But now the abundance of coins have made it difficult to keep track of all the Blockchain projects out there. Many project landing pages do a poor job of explaning what they are, often opting to use buzzwords and catchy phrases over clear, concise information. Whitepapers take a long time to read through, and can also sometimes fail to give a proper abstract.
 
