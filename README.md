@@ -6,6 +6,9 @@ This project aims to provide quick summaries of what projects are, in order to g
 
 Please add projects and descriptions below. Improve or correct existing descriptions as you see fit.
 
+## Contributing
+Submit a pull request with changes, or edit this [spreadsheet](https://docs.google.com/spreadsheets/d/1fxZjq5VR_BFnyR13rCBDk5G3_FS-7RRwmngycLc0bYA/edit#gid=0), which will be merged in periodically.
+
 ## Crypto Projects
 ### 0x
 Protocol for decentralized exchanges for ERC20 tokens.
