@@ -115,10 +115,13 @@ Blockchain platform aimed at enterprise.
 Similar to Ethereum but based in China and with partnerships with Chinese organizations.
 
 ### OmiseGO
-Similar to Ripple but catering to the Asian market.
+Decentralized network for P2P payments with any currency, both fiat and crypto.
 
 ### PIVX
 fork of Dash with POS protocol
+
+### RaiBlocks
+Digital currency with zero fees and instant transactions. One of the most scalable solutions in production.
 
 ### Request Network
 A layer on top of Ethereum that allows anyone to request a payment, with regulations like taxes built-in.
