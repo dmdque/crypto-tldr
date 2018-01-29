@@ -15,6 +15,9 @@ Submit a pull request with changes, or edit this [spreadsheet](https://docs.goog
 ### 0x
 Protocol for decentralized exchanges for ERC20 tokens.
 
+### AppCoins
+Protocol used to purchase items within mobile apps using blockchain.
+
 ### Aragon
 A decentralized ompany or organization management. Aims to tackle problems like managing payroll and company administration.
 
@@ -87,6 +90,9 @@ Prediction market
 ### Golem
 Utility token ecentralized supercomputing platform.
 
+### Icon
+An open source ecosystem on the blockchain that allows organizations like government departments, universities, hospitals, and financial institutions to interact without third-party networks that charge transaction fees or delay the process.
+
 ### Iconomi
 Crypto index funds
 
@@ -119,6 +125,9 @@ Decentralized network for P2P payments with any currency, both fiat and crypto.
 
 ### PIVX
 fork of Dash with POS protocol
+
+### Po.et
+A shared, universal ledger designed to track ownership and attribution for digital creative assets.
 
 ### RaiBlocks
 Digital currency with zero fees and instant transactions. One of the most scalable solutions in production.
