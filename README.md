@@ -64,7 +64,7 @@ Coin for the feeless crypto exchange, Cobinhood.
 Privacy-focused coin with an environmentally-friendly slant.
 
 ### Coss
-Coin for the feeless crypto exchange, Coss.
+Coin for the crypto exchange, Coss. Holding COSS allows you to participate in the split fee program. 50% of the fees are distributed to the holders
 
 ### Dash
 Digital cash with tech innovations (masternodes) that allow instant and optionally anonymous sending. Dash sets aside funds for projects which support the Dash ecosystem like marketing.
@@ -117,6 +117,9 @@ Digital currency almost identical to Bitcoin but with minor improvements.
 ### MakerDao
 Stablecoin using collateral to back the value of the Dai token.
 
+### Mediblock
+MediBloc decentralized healthcare information ecosystem  for patients, healthcare providers, and researchers. 
+
 ### Monero
 Digital currency with anonymized transaction and balances.
 
@@ -140,6 +143,9 @@ A shared, universal ledger designed to track ownership and attribution for digit
 
 ### RaiBlocks
 Digital currency with zero fees and instant transactions. One of the most scalable solutions in production.
+
+### Reddcoin
+Social Coin, being able to contribute content getting paid by people who watch it and tip you in these. Advertisement also pays in RDD. 
 
 ### Request Network
 A layer on top of Ethereum that allows anyone to request a payment, with regulations like taxes built-in.
