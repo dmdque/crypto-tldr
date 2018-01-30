@@ -67,8 +67,7 @@ Digital cash with tech innovations (masternodes) that allow instant and optional
 Bitcoin like.
 
 ### DigiByte 
-
-Older Bitcoin competitor with 5 mining alternatives, 15 sec blockintervall with halving every year.
+Older Bitcoin competitor with 5 mining alternatives, 15 sec block interval with halving every year.
 
 ### DigixDAO
 Gold backed tokens
