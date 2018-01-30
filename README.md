@@ -45,6 +45,9 @@ Ponzi scheme scam.
 ### Bounty0x
 Utility token for bounty platform.
 
+### BPT
+Coin for the Blockport Social Trading Exchange.
+
 ### Bytecoin
 The first currency based on the CryptoNote technology.
 
@@ -56,6 +59,9 @@ Identity verification system.
 
 ### Cobinhood
 Coin for the feeless crypto exchange, Cobinhood.
+
+### ColossusCoinXT
+Privacy-focused coin with an environmentally-friendly slant.
 
 ### Coss
 Coin for the feeless crypto exchange, Coss.
@@ -123,6 +129,9 @@ Similar to Ethereum but based in China and with partnerships with Chinese organi
 ### OmiseGO
 Decentralized network for P2P payments with any currency, both fiat and crypto.
 
+### Oyster Pearl
+Websites make money without ads by letting website visitors support an Oyster-backed storage solution. Storage users pay the websites indirectly.
+
 ### PIVX
 fork of Dash with POS protocol
 
@@ -141,6 +150,9 @@ Peer to peer debt transfer.
 ### Siacoin
 Decentralized storage.
 
+### Sigil
+A crowdfunding coin building a feeless crowdfunding platform, with projects funded by the Sigil coin.
+
 ### Steem
 Utility token for decentralized social networks like Steemit.
 
@@ -158,6 +170,9 @@ Facilitates spending cryptocurrencies in real life.
 
 ### Tether
 Digital currency that's supposedly collaterized 1:1 with USD and audited on a regular basis. There are doubts that this claim is true
+
+### VEN
+A coin to enhance businesses' supply chains. Helps to stop counterfeit products.
 
 ### Verge
 Privacy coin with IP obsfucation built-in.
