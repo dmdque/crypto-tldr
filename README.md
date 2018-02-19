@@ -19,7 +19,7 @@ Protocol for decentralized exchanges for ERC20 tokens.
 Protocol used to purchase items within mobile apps using blockchain.
 
 ### Aragon
-A decentralized ompany or organization management. Aims to tackle problems like managing payroll and company administration.
+A decentralized company or organization management. Aims to tackle problems like managing payroll and company administration.
 
 ### Augur
 Utility token for a prediction market platform.
